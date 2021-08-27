@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bite</string>
+    <string name="name">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="Layer">Thin Layer</string>
+    <string name="flaour">Papper + Mayonnaise</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">order</string>
+    <string name="thank_you">Thank You</string>
+    <string name="total">Total :</string>
+    <string name="subject">Coffee Order</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043629832154",
+    "firebase_url": "https://bite-1ee9c.firebaseio.com",
+    "project_id": "bite-1ee9c",
+    "storage_bucket": "bite-1ee9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043629832154:android:823a886ff9d68e622c32e3",
+        "android_client_info": {
+          "package_name": "com.example.bite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043629832154-rgeo2qhhp5t46vjtdv9nrqm613h9rf5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMduQMPPLl6CBpkkF3ZZDNFTkiHjSCwu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043629832154-rgeo2qhhp5t46vjtdv9nrqm613h9rf5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
